@@ -23,6 +23,7 @@ we are using [librosa](https://pypi.org/project/librosa/) for reading the audio 
 * pandas
 * sklearn
 * keras
+* matplotlib
 
 ## Training
 
